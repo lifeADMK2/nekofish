@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         auto neko fishing
 // @namespace    http://tampermonkey.net/
-// @version      4.1
+// @version      4.2
 // @description  Tự động chơi câu cá neko fishing
 // @match        https://discord.com/*
 // @grant        GM_getValue
