@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         fishing
 // @namespace    http://tampermonkey.net/
-// @version      4.85
+// @version      unsp
 // @description  Tự động chơi câu cá cho mấy thằng cụt
 // @match        https://discord.com/*
 // @grant        GM_getValue
